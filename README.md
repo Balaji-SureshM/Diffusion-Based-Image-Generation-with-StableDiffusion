@@ -44,17 +44,17 @@ with torch.autocast("cuda"):
 image.save("cricket_in_the_street.png")
 ```
 
-##Examples
+## Examples
 Here are a few example prompts and their corresponding generated images:
 
 Prompt: "A serene landscape with mountains and a river"
 
 Prompt: "A futuristic cityscape at night"
 
-##Contributing
+## Contributing
 Contributions are welcome! Please feel free to submit a Pull Request.
 
-##License
+## License
 This project is licensed under the MIT License. See the LICENSE file for more details.
 
 
