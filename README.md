@@ -17,7 +17,7 @@ StableDiffusion is a powerful framework for image generation using diffusion mod
 To get started, clone this repository and install the required dependencies:
 
 ```bash
-git clone https://github.com/your-username/diffusion-image-generation.git
+git clone https://github.com/your-username/Diffusion-Based-Image-Generation-with-StableDiffusion.git
 cd diffusion-image-generation
 pip install -r requirements.txt
 
